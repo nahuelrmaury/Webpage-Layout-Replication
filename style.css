@@ -267,13 +267,19 @@ main {
     margin: 20px auto;
     margin-left: 213px;
     width: 80.15%;
+    margin-top: 15px;
+}
+
+.last-line-separator{
+    margin-left: 193.5px;
+    width: 83.15%;
 }
 
 .main-comment-button_format {
     color: #8f8f8f;
     font-size: 0.9rem;
     font-weight: bold;
-
+    padding-top: 5px;
 }
 
 .button {
